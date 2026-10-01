@@ -1,3 +1,5 @@
+HTSV: Nguyễn Khải Hoàn 
+MSV: 24810320086
 Câu 1. Phân biệt Value Types và Reference Types
 
 Trong C#, kiểu dữ liệu được chia thành hai nhóm chính:
