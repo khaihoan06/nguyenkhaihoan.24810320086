@@ -1,0 +1,17 @@
+D:\download\hoanbaikiemtraso1\hoanbaikiemtraso1\obj\Debug\net10.0-windows\hoanbaikiemtraso1.Form1.resources
+D:\download\hoanbaikiemtraso1\hoanbaikiemtraso1\obj\Debug\net10.0-windows\hoanbaikiemtraso1.csproj.GenerateResource.cache
+D:\download\hoanbaikiemtraso1\hoanbaikiemtraso1\obj\Debug\net10.0-windows\hoanbaikiemtraso1.GeneratedMSBuildEditorConfig.editorconfig
+D:\download\hoanbaikiemtraso1\hoanbaikiemtraso1\obj\Debug\net10.0-windows\hoanbaikiemtraso1.AssemblyInfoInputs.cache
+D:\download\hoanbaikiemtraso1\hoanbaikiemtraso1\obj\Debug\net10.0-windows\hoanbaikiemtraso1.AssemblyInfo.cs
+D:\download\hoanbaikiemtraso1\hoanbaikiemtraso1\obj\Debug\net10.0-windows\hoanbaikiemtraso1.csproj.CoreCompileInputs.cache
+D:\download\hoanbaikiemtraso1\hoanbaikiemtraso1\bin\Debug\net10.0-windows\hoanbaikiemtraso1.exe
+D:\download\hoanbaikiemtraso1\hoanbaikiemtraso1\bin\Debug\net10.0-windows\hoanbaikiemtraso1.deps.json
+D:\download\hoanbaikiemtraso1\hoanbaikiemtraso1\bin\Debug\net10.0-windows\hoanbaikiemtraso1.runtimeconfig.json
+D:\download\hoanbaikiemtraso1\hoanbaikiemtraso1\bin\Debug\net10.0-windows\hoanbaikiemtraso1.dll
+D:\download\hoanbaikiemtraso1\hoanbaikiemtraso1\bin\Debug\net10.0-windows\hoanbaikiemtraso1.pdb
+D:\download\hoanbaikiemtraso1\hoanbaikiemtraso1\obj\Debug\net10.0-windows\hoanbaikiemtraso1.dll
+D:\download\hoanbaikiemtraso1\hoanbaikiemtraso1\obj\Debug\net10.0-windows\refint\hoanbaikiemtraso1.dll
+D:\download\hoanbaikiemtraso1\hoanbaikiemtraso1\obj\Debug\net10.0-windows\hoanbaikiemtraso1.pdb
+D:\download\hoanbaikiemtraso1\hoanbaikiemtraso1\obj\Debug\net10.0-windows\hoanbaikiemtraso1.genruntimeconfig.cache
+D:\download\hoanbaikiemtraso1\hoanbaikiemtraso1\obj\Debug\net10.0-windows\ref\hoanbaikiemtraso1.dll
+D:\download\hoanbaikiemtraso1\hoanbaikiemtraso1\obj\Debug\net10.0-windows\hoanbaik.0445F164.Up2Date
