@@ -1,0 +1,15 @@
+D:\download\bài tập kiểm tra số 1\bài tập kiểm tra số 1\obj\Debug\net10.0\bài tập kiểm tra số 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\download\bài tập kiểm tra số 1\bài tập kiểm tra số 1\obj\Debug\net10.0\bài tập kiểm tra số 1.AssemblyInfoInputs.cache
+D:\download\bài tập kiểm tra số 1\bài tập kiểm tra số 1\obj\Debug\net10.0\bài tập kiểm tra số 1.AssemblyInfo.cs
+D:\download\bài tập kiểm tra số 1\bài tập kiểm tra số 1\obj\Debug\net10.0\bài tập kiểm tra số 1.csproj.CoreCompileInputs.cache
+D:\download\bài tập kiểm tra số 1\bài tập kiểm tra số 1\bin\Debug\net10.0\bài tập kiểm tra số 1.exe
+D:\download\bài tập kiểm tra số 1\bài tập kiểm tra số 1\bin\Debug\net10.0\bài tập kiểm tra số 1.deps.json
+D:\download\bài tập kiểm tra số 1\bài tập kiểm tra số 1\bin\Debug\net10.0\bài tập kiểm tra số 1.runtimeconfig.json
+D:\download\bài tập kiểm tra số 1\bài tập kiểm tra số 1\bin\Debug\net10.0\bài tập kiểm tra số 1.dll
+D:\download\bài tập kiểm tra số 1\bài tập kiểm tra số 1\bin\Debug\net10.0\bài tập kiểm tra số 1.pdb
+D:\download\bài tập kiểm tra số 1\bài tập kiểm tra số 1\obj\Debug\net10.0\bài tập kiểm tra số 1.dll
+D:\download\bài tập kiểm tra số 1\bài tập kiểm tra số 1\obj\Debug\net10.0\refint\bài tập kiểm tra số 1.dll
+D:\download\bài tập kiểm tra số 1\bài tập kiểm tra số 1\obj\Debug\net10.0\bài tập kiểm tra số 1.pdb
+D:\download\bài tập kiểm tra số 1\bài tập kiểm tra số 1\obj\Debug\net10.0\bài tập kiểm tra số 1.genruntimeconfig.cache
+D:\download\bài tập kiểm tra số 1\bài tập kiểm tra số 1\obj\Debug\net10.0\ref\bài tập kiểm tra số 1.dll
+D:\download\bài tập kiểm tra số 1\bài tập kiểm tra số 1\obj\Debug\net10.0\b_i t_p .E77FF5EE.Up2Date
